@@ -8,7 +8,7 @@ style="width:50%; border:0;">
 * **Diego salinas:encargado de la programacion del robot**
 * **Lucas Baez:encargado de la construccion del robot**
 * **Lucca Quiquino:encargado de la documentacion**
-
+* **Ignacio Castillo:profesor encargado**
 
 
 
