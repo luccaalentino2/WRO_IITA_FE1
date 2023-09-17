@@ -4,5 +4,23 @@ align="center">
 <img src="images\team\team.jpeg"
 style="width:50%; border:0;">
 </p>
+
+##Diego salinas:encargado de la programacion del robot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # contents
 # descriptions
