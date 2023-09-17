@@ -5,5 +5,5 @@
 <p 
 align="center">
 <img src="images\team\team.jpeg"
-style="width:100%; border:0;">
+style="width:70%; border:0;">
 </p>
