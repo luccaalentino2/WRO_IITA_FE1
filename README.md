@@ -2,7 +2,7 @@
 <p 
 align="center">
 <img src="images\team\team.jpeg"
-style="width:70%; border:0;">
+style="width:50%; border:0;">
 </p>
 # contents
 # descriptions
