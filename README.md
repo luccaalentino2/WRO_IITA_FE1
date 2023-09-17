@@ -4,7 +4,6 @@
 
 <p 
 align="center">
-<img src="Images\Team\Team.jpeg"
-alt="Foto Evolucion Diseño"
+<img src="Images\team\team.jpeg"
 style="width:100%; border:0;">
 </p>
