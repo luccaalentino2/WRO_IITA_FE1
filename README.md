@@ -5,7 +5,7 @@ align="center">
 style="width:50%; border:0;">
 </p>
 
-##Diego salinas:encargado de la programacion del robot
+## Diego salinas:encargado de la programacion del robot
 
 
 
